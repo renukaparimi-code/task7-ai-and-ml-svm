@@ -1,0 +1,1 @@
+# task7-ai-and-ml-svm
